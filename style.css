@@ -1,6 +1,6 @@
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #77c4f7;
  }
 
 body {
@@ -19,7 +19,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #43a4cb;
     font-weight: 600;
 }
 
@@ -116,7 +116,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #67bef0;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -127,13 +127,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #55a1d3;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #93ceff;
 }
 .menu-acessibilidade{
     position: fixed;
